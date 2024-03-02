@@ -1,0 +1,29 @@
+#root {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Garamond, serif;
+  background-color: rgb(62, 148, 62);
+}
+
+h1{
+  margin-bottom: -100px;
+  
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.play{
+  display: block;
+  margin: 0 auto;
+}
+button{
+  padding: 10px;
+}
